@@ -1,5 +1,6 @@
 # MIMINO Restaurant-Hotel Complex Website [🌐 GHPages link](https://viktoriiaprotasova.github.io/mimino-project/)
-![MIMINO Hotel](assets/MIMINO.webp)
+
+![MIMINO Hotel](assets/mimino.jpg)
 
 MIMINO is an immersive multi-page website designed to showcase the hotel and its
 exceptional range of services, providing visitors with a captivating experience
