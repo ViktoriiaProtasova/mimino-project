@@ -1,4 +1,4 @@
-# MIMINO Restaurant-Hotel Complex Website [🌐 GHPages](https://viktoriiaprotasova.github.io/mimino-project/)
+# MIMINO Hotel Complex Website [🌐 GHPages](https://viktoriiaprotasova.github.io/mimino-project/)
 
 ![MIMINO Hotel](assets/mimino.jpg)
 
@@ -25,9 +25,10 @@ hotel with exceptional offerings.
 
 ## Features
 
-— Captivating and responsive design — Visually appealing animations using
-Animate.css — Clear and intuitive navigation menus — Seamless compatibility
-across various devices
+- Captivating and responsive design
+- Visually appealing animations using Animate.css
+- Clear and intuitive navigation menus
+- Seamless compatibility across various devices
 
 ## Technologies Used
 
