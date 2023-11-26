@@ -1,4 +1,4 @@
-# MIMINO Restaurant-Hotel Complex Website [🌐 GHPages link](https://viktoriiaprotasova.github.io/mimino-project/)
+# MIMINO Restaurant-Hotel Complex Website [🌐 GHPages](https://viktoriiaprotasova.github.io/mimino-project/)
 
 ![MIMINO Hotel](assets/mimino.jpg)
 
@@ -20,50 +20,46 @@ of its unique atmosphere.
 
 ## Description
 
-Welcome to MIMINO, a multi-page website that takes you on a journey through the
-splendor of our hotel and its exceptional offerings. Immerse yourself in the
-elegance and comfort we offer, all showcased through this dynamic website.
+Welcome to MIMINO, a website that showcases the elegance and comfort of our
+hotel with exceptional offerings.
 
 ## Features
 
-- Captivating and responsive design
-- Visually appealing animations using Animate.css
-- Clear and intuitive navigation menus
-- Seamless compatibility across various devices
+— Captivating and responsive design — Visually appealing animations using
+Animate.css — Clear and intuitive navigation menus — Seamless compatibility
+across various devices
 
 ## Technologies Used
 
-Using HTML, CSS, and JS, we developed a visually consistent and responsive
-design, and used the Animate.css library for animation effects.
+Implemented front-end features using Vite Bandler, HTML, CSS, and JavaScript.
+And used the Animate.css library for animation effects.
 
 ## My Role
 
-I acted as a team leader and developer, playing a crucial role in leading the
-development team to success and actively contributing to the project. My
-responsibilities included creating the top and bottom menus, as well as the hero
-sections on the homepage.
+My responsibilities included creating the home-about, home-hotel-details and
+home-restaurant-details pages.
 
 ## Achievements
 
-- Successfully managed the work of the development team, ensuring clear
-  communication, task distribution, and timely project implementation.
-- Utilized responsive design principles to ensure flawless website appearance on
-  various devices, enhancing accessibility and user satisfaction across
-  desktops, tablets, and smartphones.
-- Integrated diverse technologies and libraries, such as CSS frameworks and JS
-  plugins, enhancing website functionality and visual appeal. Smart resource
-  integration contributed to a well-optimized and seamless platform.
+Collaborated with the team to craft a responsive website layout that enhances
+user experience and engagement.
+
+Implemented front-end features using Vite Bandler, HTML, CSS, and JavaScript,
+ensuring functionality and 97% effectiveness on PageSpeed Insights.
+
+Acquired a responsive design that adapts fluidly across various devices,
+contributing to a user-friendly interface. Reached 79% accessibility on
+PageSpeed Insights.
 
 ## Project Type
 
-MIMINO is a multi-page website that offers comprehensive information about the
-hotel and its services, providing potential customers with an immersive
-experience of the hotel's offerings.
+MIMINO is a website with comprehensive information about the hotel and its
+services, offering potential customers an immersive experience.
 
 ## Project Goal
 
-The primary objective of this project was to establish a strong online presence
-for the hotel, showcasing its services and captivating potential customers.
+The main goal of this project was to establish a robust online presence for the
+hotel, showcasing its services and captivating potential customers.
 
 ## Getting Started
 
@@ -72,7 +68,7 @@ To view the MIMINO Hotel website locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/vasylkivt/MIMINO.git
+   git clone https://github.com/ViktoriiaProtasova/mimino-project.git
    ```
 
 2. Make sure you have the LTS version of Node.js installed on your computer.
