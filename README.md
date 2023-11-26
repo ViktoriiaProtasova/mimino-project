@@ -1,166 +1,90 @@
-# teams-project-17
-Task:
+# MIMINO Restaurant-Hotel Complex Website [![Netlify Status](https://api.netlify.com/api/v1/badges/40409e23-592b-4b60-8153-54dfbb13c9ee/deploy-status)](https://app.netlify.com/sites/vasylkiv-mimino/deploys) [🌐 Netlify link](https://vasylkiv-mimino.netlify.app)
+![MIMINO Hotel](assets/MIMINO.webp)
 
-Develop a multi-page website for the company "Mimino".
+MIMINO is an immersive multi-page website designed to showcase the hotel and its
+exceptional range of services, providing visitors with a captivating experience
+of its unique atmosphere.
 
-The layout is responsive, except for mobile devices. Breakpoints:
-- mobile: fluid layout, becomes responsive at 375px;
-- tablet: 768px;
-- desktop: 1440px
+## Table of Contents
 
-Ensure valid markup (https://validator.w3.org/, https://validator.w3.org/unicorn/).
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [My Role](#my-role)
+- [Achievements](#achievements)
+- [Project Type](#project-type)
+- [Project Goal](#project-goal)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
 
-Maintain semantic structure according to HTML5 standards.
+## Description
 
-Include font-face for font integration.
+Welcome to MIMINO, a multi-page website that takes you on a journey through the
+splendor of our hotel and its exceptional offerings. Immerse yourself in the
+elegance and comfort we offer, all showcased through this dynamic website.
 
-Optimize vector and raster graphics sizes.
+## Features
 
-Ensure support for displaying images on retina screens.
+- Captivating and responsive design
+- Visually appealing animations using Animate.css
+- Clear and intuitive navigation menus
+- Seamless compatibility across various devices
 
-Optimize image loading.
+## Technologies Used
 
-Add a favicon display for the page.
+Using HTML, CSS, and JS, we developed a visually consistent and responsive
+design, and used the Animate.css library for animation effects.
 
-Project Structure:
+## My Role
 
-Main Page
-Header (common for all pages)
-Hero
-About a complex
-Restaurant’s details
-Welcome to a complex
-Hotel’s details
-Location & contacts
+I acted as a team leader and developer, playing a crucial role in leading the
+development team to success and actively contributing to the project. My
+responsibilities included creating the top and bottom menus, as well as the hero
+sections on the homepage.
 
-Footer (common for all pages)
+## Achievements
 
-Restaurant Page
-Hero
-About a kitchen
-Restaurant menu
+- Successfully managed the work of the development team, ensuring clear
+  communication, task distribution, and timely project implementation.
+- Utilized responsive design principles to ensure flawless website appearance on
+  various devices, enhancing accessibility and user satisfaction across
+  desktops, tablets, and smartphones.
+- Integrated diverse technologies and libraries, such as CSS frameworks and JS
+  plugins, enhancing website functionality and visual appeal. Smart resource
+  integration contributed to a well-optimized and seamless platform.
 
-Hotel Page
-Hero
-Double Luxury Room
-Triple Room
-Four-seater Room
+## Project Type
 
-Room Page
-Hero
-Amenities
+MIMINO is a multi-page website that offers comprehensive information about the
+hotel and its services, providing potential customers with an immersive
+experience of the hotel's offerings.
 
-Book a Room Modal window
-Book a Table Modal window
-Prices per Room Modal window
+## Project Goal
 
-Main Page
-Header
-The header contains navigation, logo, and a list of social media links (in tablet and desktop versions).
-The company's logo (name) is implemented as a link that returns the user to the Main Page.
-Navigation should be implemented as a list of elements, each containing a link to the corresponding page.
-Social media links should open the respective third-party resource in a separate tab.
-The navigation menu on mobile and tablet versions is displayed as a sliding side panel. The menu is fixed and its height matches the viewport height. The menu includes links that lead to the respective pages.
+The primary objective of this project was to establish a strong online presence
+for the hotel, showcasing its services and captivating potential customers.
 
-Hero
-"Mimino" - page title.
-The "Book a table" button should open the Book a Table Modal window.
-The "Book a room" button should open the Book a Room Modal window.
+## Getting Started
 
-About a complex
-The section has no visible title. It should have a hidden title for crawlers.
-"Restaurant-hotel complex" and "Business class hotel" are subheadings.
-The section includes images of the complex, which should be implemented as content.
+To view the MIMINO Hotel website locally, follow these steps:
 
-Restaurant's details
-"Restaurant" - section title.
-The section includes a slider with content images of the restaurant.
-The "Book a table" button should open the Book a Table Modal window.
-The "View the menu" button should be implemented as a link that leads the user to the Restaurant Page.
+1. Clone this repository:
 
-Welcome to a complex
-"Welcome to the epitome of luxury and comfort" - section title.
-The section includes an image of the complex, which should be implemented as content.
+   ```bash
+   git clone https://github.com/vasylkivt/MIMINO.git
+   ```
 
-Hotel's details
-"Hotel" - section title.
-The "Book a room" button should open the Book a Room Modal window.
-The "View rooms" button should be implemented as a link that leads the user to the Hotel Page.
+2. Make sure you have the LTS version of Node.js installed on your computer.
+   [Download and install](https://nodejs.org/en/) it if needed.
+3. Install the basic project dependencies by running `npm install` in your
+   terminal.
+4. Start the development mode by executing `npm start` in your terminal.
+5. Open your web browser and go to
+   [ http://localhost:5173/](http://localhost:5173/). The page will
+   automatically refresh whenever you save changes to project files.
 
-Location & contacts
-"Location" - section title.
-Includes a list of contact phone numbers for feedback and the address with a content image of the map.
+## Usage
 
-Footer
-The company's logo (name) should be implemented as a link that returns the user to the Main Page.
-Links from the list should lead to the respective pages.
-Social media links should open the respective third-party resource in a separate tab.
-
-Restaurant Page
-Hero
-"Restaurant" - page title.
-The "Book a table" button should open the Book a Table Modal window.
-The "View a menu" button should be implemented as an anchor link that leads to the respective section of the page.
-The section includes a slider with content images of the restaurant.
-
-About a kitchen
-The section has no visible title. It should have a hidden title for crawlers.
-The section includes images of food preparation, which should be implemented as content.
-
-Restaurant menu
-"Restaurant menu" - section title.
-The restaurant menu content should be implemented using the <ul> tag as a list of elements, including sub-items.
-The "Book a Table" button should open the Book a Table Modal window.
-
-Hotel Page
-Hero
-"Hotel" - page title.
-The "Book a Room" button should open the Book a Room Modal window.
-The "View prices" button should open the Prices per Room Modal window.
-The section includes a slider with content images of the hotel.
-
-Double Luxury Room
-"Double Luxury Room" - section title.
-The section includes images of the hotel room, which should be implemented as content.
-The "More details" button should be implemented as a link that leads the user to the Room Page.
-The "View prices" button should open the Prices per Room Modal window.
-
-Triple Room
-"Triple Room" - section title.
-The section includes images of the hotel room, which should be implemented as content.
-The "More details" button should be implemented as a link that leads the user to the Room Page.
-The "View prices" button should open the Prices per Room Modal window.
-
-Four-seater Room
-"Four-seater Room" - section title.
-The section includes images of the hotel room, which should be implemented as content.
-The "More details" button should be implemented as a link that leads the user to the Room Page.
-The "View prices" button should open the Prices per Room Modal window.
-
-Room Page
-Hero
-"Double Luxury Room" - page title.
-The section includes a slider with content images.
-The "View prices" button should open the Prices per Room Modal window.
-
-Amenities
-The section has no visible title. It should have a hidden title for crawlers.
-The hotel room amenities should be categorized and implemented using the <ul> tag as a list of elements, including sub-items.
-The "Book a Room" button should open the Prices per Room Modal window.
-
-Book a Room Modal window
-"Book a Room" - section title.
-The room booking form includes elements such as <input> and <select> (for which minimal data validation should be added using the pattern attribute), and a "Make a reservation" button. The up/down arrows for <select> should be implemented as pseudo-elements.
-The "Make a reservation" button with the submit type should close the modal window.
-
-Book a Table Modal window
-"Book a Table" - section title.
-The table reservation form includes elements such as <input> and <select> (for which minimal data validation should be added using the pattern attribute), and a "Make a reservation" button. 
-The "Make a reservation" button with the submit type should close the modal window.
-
-Prices per Room Modal window
-"Prices per Room" - section title.
-The form includes elements such as <input> and <select> (for which minimal data validation should be added using the pattern attribute), and a "Make a reservation" button. 
-The "Make a reservation" button with the submit type should close the modal window.
-
-*The presence of sliders is NOT MANDATORY and can be implemented by the team if desired and time permits.
+Feel free to explore the website's pages, animations, and responsive design. You
+can also use this project as a reference for implementing similar features in
+your own projects.
